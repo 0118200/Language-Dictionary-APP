@@ -7,5 +7,4 @@ This apk is dictionary Indonesian (input) to give an English (output), this apk 
 This program is used java to built an APK, and we used Android Studio to development English Language Dictionary
 
 Program Language : java
-
 API : English Language Dictionary API, Translate API
